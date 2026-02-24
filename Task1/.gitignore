@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+
+# Log files
+*.log
+
+# VS Code settings
+.vscode/
+
+# Build folders
+bin/
+out/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
