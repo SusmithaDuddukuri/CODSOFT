@@ -38,4 +38,4 @@ cd Task2/src
 javac StudentGradeCalculator.java
 
 # Run the program
-java StudentGradeCalculator
+java StudentGradeCalculatorupdate
