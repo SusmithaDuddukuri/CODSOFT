@@ -26,4 +26,4 @@ cd Task3/src
 javac *.java
 
 # Run the program
-java Main
+java Mainupdate
