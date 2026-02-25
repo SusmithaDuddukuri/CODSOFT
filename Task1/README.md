@@ -37,3 +37,4 @@ javac NumberGame.java
 
 # Run the program
 java NumberGame
+update
