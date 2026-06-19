@@ -1,23 +1,30 @@
-# Compiled Java files
+# Java
 *.class
+*.jar
+*.war
+*.ear
 
-# Log files
+# Logs
 *.log
 
-# VS Code settings
+# VS Code
 .vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
 
 # Build folders
 bin/
-out/
 build/
+out/
+target/
 
-# OS generated files
+# OS files
 .DS_Store
 Thumbs.db
-
-# Temporary files
-*.tmp
-*.temp
-
-# gitignore
