@@ -84,5 +84,3 @@ Enter your choice:
 * Handling User Input
 * Working with Methods and Encapsulation
 * Building Real-World Banking Simulations
-
-Updated on 19-06-2026
