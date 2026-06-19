@@ -82,5 +82,3 @@ Enter your choice:
 * Applying Object-Oriented Programming Concepts
 * Handling User Input using Scanner
 * Building Menu-Driven Console Applications
-
-Updated on 19-06-2026
