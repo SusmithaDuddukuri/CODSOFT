@@ -91,5 +91,3 @@ Thank you for using Currency Converter!
 * Implementing Currency Conversion Logic
 * Building Menu-Free Interactive Console Applications
 * Improving Java Programming Fundamentals
-
-Updated on 19-06-2026
